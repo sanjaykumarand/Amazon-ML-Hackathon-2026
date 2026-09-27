@@ -1,0 +1,17 @@
+﻿# Amazon ML Challenge 2026 - Business Entity Resolution
+# Python 3.9+ required
+# Pin versions for full reproducibility
+
+# Core data processing
+numpy==1.26.4
+pandas==2.2.2
+
+# Machine learning
+scikit-learn==1.5.1
+
+# Utilities (stdlib-only beyond these)
+joblib==1.4.2
+
+# Optional: faster CSV parsing (used internally by pandas)
+python-dateutil==2.9.0
+pytz==2024.1
