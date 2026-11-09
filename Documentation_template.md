@@ -1,4 +1,4 @@
-﻿# ML Challenge 2026: Business Entity Resolution Solution
+﻿# ML Challenge 2026: Business Entity Resolution Solutions
 
 <h3>Unstop Team ID:<b> UJ1K56I7 </b>
 <br>Unstop Team Link: https://unstop.com/competitions/1743604/register?invitedId=UJ1K56I7
